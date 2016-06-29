@@ -1,0 +1,19 @@
+{
+  "name": "fsfv_day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://michaellee8848@bitbucket.org/michaellee8848/fsfv_day3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/michaellee8848/fsfv_day3#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
